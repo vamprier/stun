@@ -1,0 +1,1 @@
+g++ udp.cpp typedef.cpp logfile.cpp stunServer.cpp -o stunServer -lpthread
